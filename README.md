@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Devops, Backend, Frontend, data analytics**
 
-- 📫 How to reach me **traibiamine@gail.com**
+- 📫 How to reach me **traibiamine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
